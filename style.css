@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+margin: auto;
+    text-align: center;
+    border-bottom: 2px solid orange;
+}
+.memorable_photo{
+    text-align:center;
+    margin: auto;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    color: blue;
+    border-bottom: 2px solid;
+}
+.rs_photo img{
+    width: 279px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 5px;
+
+}
+.rs_photo{
+text-align: center;
+}
+.my_pic img{
+    
+width: 279px;
+    
+height: 200px;
+margin-left: 5px;
+margin-top: 10px;
+}
+.my_pic{
+    text-align: center;
+}
+.my_photo{
+    text-align: center;
+}
